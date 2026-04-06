@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-
+```
 // ipcprog.c - Combined Writer/Reader for System V Message Queue
 #include <stdio.h>
 #include <stdlib.h>
@@ -91,10 +91,14 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+```
+
 
 ## OUTPUT
 
-<img width="1265" height="334" alt="image" src="https://github.com/user-attachments/assets/f8afc142-24d1-41ef-9be8-082bdacc8034" />
+<img width="675" height="486" alt="image" src="https://github.com/user-attachments/assets/572f8f73-4ef4-432b-8b45-e11072f7b067" />
+
+
 
 
 # RESULT:
